@@ -6,7 +6,6 @@ h1 {
 }
 section {
     background-color: grey;
-    float: left;
 }
 h4 {
     border: 1px solid black;
@@ -22,8 +21,9 @@ h4 {
     background-color: lightgoldenrodyellow;
 }
 .box {
-    border: 1px solid black;
+    border: 2px solid black;
     margin-left: 10px;
     margin-right: 10px;
     width: 33.33%;
+    float: left;
 }
