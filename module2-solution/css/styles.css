@@ -7,9 +7,12 @@ h1 {
 }
 section {
     background-color: grey;
+    position: relative;
 }
-h4 {
-    text-align: right;
+.title {
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 #h1 {
     background-color: pink;
