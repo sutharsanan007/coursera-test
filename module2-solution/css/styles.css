@@ -8,24 +8,23 @@ section {
     background-color: grey;
     float: left;
 }
-title {
+h4 {
     border: 1px solid black;
     position: relative;
     bottom: 0;
     left: 0;
 }
-#t1 {
+#h1 {
     background-color: pink;
 }
-#t2 {
+#h2 {
     background-color: brown;
 }
-#t3 {
+#h3 {
     background-color: lightgoldenrodyellow;
 }
 #box {
     border: 1px solid black;
-    width: 90%;
     margin-left: 10px;
     margin-right: 10px;
 }
