@@ -29,3 +29,7 @@ h4 {
     margin-bottom: 10px;
     float: left;
 }
+p {
+    margin: 3px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
