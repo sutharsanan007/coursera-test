@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: fantasy;
 }
 h1 {
     text-align: center;
@@ -31,7 +32,6 @@ h4 {
 }
 p {
     margin: 6px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 @media (min-width: 992px) {
     .col-lg-3 {
@@ -40,4 +40,12 @@ p {
 }
 .col-lg-3 {
     width: 25%;
+}
+@media (max-width: 767px) {
+    .col-sm-1 {
+        float: left;
+    }
+}
+.col-sm-1 {
+    width: 100%;
 }
