@@ -1,6 +1,5 @@
 #header-nav {
     background-color: grey;
-}
-body {
-    background-color: indigo;
+    border-radius: 0;
+    border: 0;
 }
