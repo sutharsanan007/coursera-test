@@ -7,9 +7,15 @@
     color: black;
     margin-top: 0;
     margin-bottom: 0;
-    text-align: left;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
+}
+
+.navbar-brand {
+    position: relative;
 }
