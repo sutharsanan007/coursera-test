@@ -3,4 +3,12 @@
     border-radius: 0;
     border: 0;
 }
+.navbar-brand h1 {
+    color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
