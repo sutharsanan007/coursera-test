@@ -17,10 +17,7 @@
     border: 1px solid black;
 }
 
-#nav-list {
-    background-color: white;
-}
 #nav-list a {
-    color: black;
+    color: white;
     text-align: center;
 }
