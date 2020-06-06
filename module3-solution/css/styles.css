@@ -32,3 +32,8 @@
     position: relative;
     margin: 10px;
 }
+
+.title {
+    text-align: center;
+    font-size: medium;
+}
