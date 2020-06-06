@@ -48,3 +48,10 @@
     margin-top: 20px;
     padding: 15px;
 }
+
+@media (max-width: 767px) {
+    .box {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
