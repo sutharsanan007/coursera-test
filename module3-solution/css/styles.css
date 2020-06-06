@@ -16,3 +16,9 @@
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid black;
 }
+
+.navbar-header button.navbar-toggle {
+    background-color: white;
+    text-align: center;
+    
+}
