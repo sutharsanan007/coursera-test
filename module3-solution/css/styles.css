@@ -22,8 +22,12 @@
     text-align: center;
 }
 
-#navlist a:hover {
+#nav-list a:hover {
     background: cyan;
+}
+
+#nav-list a span {
+    font-size: large;
 }
 
 .box {
